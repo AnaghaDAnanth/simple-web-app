@@ -10,7 +10,7 @@ pipeline {
                 stage('Building') {
                     steps {
                         
-                        bat "mvn clean install  |  tee output.log"
+                        bat "mvn clean install  > output.log"
 
                         bat '! grep "WARNING" output.log'
 
