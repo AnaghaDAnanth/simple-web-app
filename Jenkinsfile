@@ -23,7 +23,7 @@ pipeline {
                     steps {
                         script {
                             while (BUILD_COMPLETE != true) {
-                                bat 'FINDSTR "WARNING" output.log'
+                                bat '.FINDSTR "WARNING" output.log'
                             }
                         }
                     }
