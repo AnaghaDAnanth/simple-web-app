@@ -10,9 +10,9 @@ pipeline {
                 stage('Building') {
                     steps {
                         
-                        sh "mvn clean install  |  tee output.log"
+                        bat "mvn clean install  |  tee output.log"
 
-                        sh '! grep "WARNING" output.log'
+                        bat '! grep "WARNING" output.log'
 
                         script {
                             BUILD_COMPLETE = true
@@ -23,7 +23,7 @@ pipeline {
                     steps {
                         script {
                             while (BUILD_COMPLETE != true) {
-                                sh '! grep "WARNING" output.log'
+                                bat '! grep "WARNING" output.log'
                             }
                         }
                     }
