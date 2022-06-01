@@ -17,7 +17,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors]https://img.shields.io/badge/twitter-mohammed__16695-1da1f2.svg?&style=for-the-badge&logo=twitter]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 
@@ -76,7 +76,7 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+The following are the tools and technologies that have been used to complete this project - 
 
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
