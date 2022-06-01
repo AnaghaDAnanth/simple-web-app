@@ -17,7 +17,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors]https://img.shields.io/badge/twitter-mohammed__16695-1da1f2.svg?&style=for-the-badge&logo=twitter]
+
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 
@@ -78,14 +78,19 @@ Use the `BLANK_README.md` to get started.
 
 The following are the tools and technologies that have been used to complete this project - 
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Slack Workstreams](https://nextjs.org/)
+* [GitHub](https://nextjs.org/)
+* [Python](https://reactjs.org/)
+* [Flask](https://vuejs.org/)
+* [Cloud Foundry](https://angular.io/)
+* [BTP](https://svelte.dev/)
+* [Jenkins](https://laravel.com)
+* [PyTest](https://getbootstrap.com)
+* [SonarQube](https://jquery.com)
+* [GitHub Actions](https://laravel.com)
+* [NgRok](https://getbootstrap.com)
+* [GitHub WebHooks](https://jquery.com)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
