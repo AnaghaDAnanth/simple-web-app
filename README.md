@@ -25,10 +25,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">DevOps Project G01</h3>
 
   <p align="center">
@@ -77,6 +73,8 @@ Use the `BLANK_README.md` to get started.
 ### Built With
 
 The following are the tools and technologies that have been used to complete this project - 
+
+![My Image](images/MicrosoftTeams-image (2).png)
 
 * [Slack Workstreams](https://nextjs.org/)
 * [GitHub](https://nextjs.org/)
